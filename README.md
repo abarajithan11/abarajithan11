@@ -13,7 +13,7 @@ I'm an Electronics graduate, currently working as a junior lecturer at [Universi
 - 💬 Ask me about FPGAs, processor design, CNN inference
 - 😄 Pronouns: digital designer, backpacker, foodie...
 
-**Notable projects:**
+**Projects:**
 
 - [SoC Design for Vision Based Traffic Control](https://aba-projects.blogspot.com/2019/10/2019-vision-based-traffic-sensing-and.html) 
   - Undergraduate thesis project
@@ -30,6 +30,12 @@ I'm an Electronics graduate, currently working as a junior lecturer at [Universi
   - For image and video compression
   - Research paper (ongoing) - private repo
   - Python (Numpy stack), SystemVerilog, ZYNQ
+- [AbruTech Processor](https://aba-projects.blogspot.com/2018/01/2018-custom-processor-design-and.html)
+  - A custom processor on FPGA with our own architecture, ISA, assembler and simulator
+  - Algorithms implemented: Downsampling, Upsampling RGB images, applying filters, prime finding with eratosthenes sieve
+- Digital Graphic Equalizer
+  - 3 bands, built for 5 extra marks
+  
 
 <!--**abarajithan11/abarajithan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
