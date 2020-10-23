@@ -1,12 +1,13 @@
-### Hey 👋, I'm Aba
+### Hey 👋, I'm [Aba](https://www.linkedin.com/in/abarajithan11/)
 
-Hi, I'm [Aba](https://www.linkedin.com/in/abarajithan11/), an Electronics and Telecommunication graduate, currently working as a junior lecturer at [University of Moratuwa](https://uom.lk/), Sri Lanka and a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides research, I enjoy teaching, food and backpacking.
+I'm an Electronics graduate, currently working as a junior lecturer at [University of Moratuwa](https://uom.lk/), Sri Lanka and a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides research, I enjoy teaching, food and backpacking.
 
 **Personal facts:**
 
 - 🔭 I’m currently working on a vision based traffic analytics startup, multi mode inference engine design (VLSI), and implementing SKLT on a ZYNQ PSoC
 - 🌱 I’m currently learning ZYNQ microcontroller programming, Synopsys VLSI tools, Tensorflow 2.x
-- 🤔 I’m looking for help with ZYNQ
+- 🤔 I’m looking for help with ZYNQ progamming
+- 📫 You can find me on: [Facebook](https://www.facebook.com/abarajithan11/)
 - 💬 Ask me about FPGAs, processor design, CNN inference
 - 😄 Pronouns: digital designer, backpacker, foodie...
 
