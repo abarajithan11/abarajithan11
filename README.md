@@ -5,7 +5,6 @@ I'm an Electronics graduate, currently working as a junior lecturer at [Universi
 **Personal facts:**
 
 - 🔭 I’m currently working on a vision based traffic analytics startup, multi mode inference engine design (VLSI), and implementing SKLT on a ZYNQ PSoC
-- 🌱 I’m currently learning ZYNQ microcontroller programming, Synopsys VLSI tools, Tensorflow 2.x
 - 🤔 I’m looking for help with ZYNQ progamming
 - 📫 You can find me on: [Facebook](https://www.facebook.com/abarajithan11/)
 - 💬 Ask me about FPGAs, processor design, CNN inference
