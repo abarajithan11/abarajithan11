@@ -4,10 +4,10 @@ I'm an electronics graduate, currently working as a junior lecturer at [Universi
 
 **Personal facts:**
 
-- I recently conducted an free, open and independant hands-on webminar: __Digital Circuit Design, Simulation and Synthesis with SystemVerilog__. 
+- I recently conducted a free, open and independant hands-on webminar: __Digital Circuit Design, Simulation and Synthesis with SystemVerilog__. 
   - It was widely successful, over 170 attended from over 9 institutes in Sri Lanka, India and Sweden.
   - [Zoom recording](http://dms.uom.lk/s/wdRSTcFoHXkSTy7) was downloaded over 782 times in two days
-  - Feedback about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm quite happy about this 😄.
+  - Feedback about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm so happy about this 😄.
 - 🔭 I’m currently working on: 
   - Implementing SKLT on a ZYNQ PSoC
   - Vision based traffic analytics startup, 
