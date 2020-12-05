@@ -1,9 +1,13 @@
 ### Hey 👋, I'm [Aba](https://www.linkedin.com/in/abarajithan11/)
 
-I'm an Electronics graduate, currently working as a junior lecturer at [University of Moratuwa](https://uom.lk/), Sri Lanka and a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides research, I enjoy teaching, food and backpacking.
+I'm an electronics graduate, currently working as a junior lecturer at [University of Moratuwa](https://uom.lk/), Sri Lanka and a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides research, I enjoy teaching, food and backpacking.
 
 **Personal facts:**
 
+- I recently conducted an free, open and independant hands-on webminar: __Digital Circuit Design, Simulation and Synthesis with SystemVerilog__. 
+  - It was widely successful, over 170 attended from over 9 institutes in Sri Lanka, India and Sweden.
+  - [Zoom recording](http://dms.uom.lk/s/wdRSTcFoHXkSTy7) was downloaded over 782 times in two days
+  - Feedback about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm quite happy about this 😄.
 - 🔭 I’m currently working on: 
   - Implementing SKLT on a ZYNQ PSoC
   - Vision based traffic analytics startup, 
@@ -15,6 +19,10 @@ I'm an Electronics graduate, currently working as a junior lecturer at [Universi
 
 **Projects:**
 
+- Missing Semester
+  - An initiative I have started at my department, to conduct hands-on webminars to familarize students with tools and languages.
+  - Free and open to anyone willing to learn
+  - SystemVerilog webminar (above) was part of it.
 - [SoC Design for Vision Based Traffic Control](https://aba-projects.blogspot.com/2019/10/2019-vision-based-traffic-sensing-and.html) 
   - Undergraduate thesis project
   - Patent under review - private repo 
