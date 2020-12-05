@@ -10,8 +10,9 @@ I'm an electronics graduate, currently working as a junior lecturer at [Universi
   - Feedback about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm so happy about this 😄.
 - 🔭 I’m currently working on: 
   - Implementing SKLT on a ZYNQ PSoC
-  - Vision based traffic analytics startup, 
+  - Vision based traffic analytics startup
   - Multi mode inference engine design (VLSI)
+  - Accelerating modified YOLOv2 in Z7045, with 30 FPS (target) at 250 MHz
 - 🤔 I’m looking for help with ZYNQ progamming
 - 📫 You can find me on: [Facebook](https://www.facebook.com/abarajithan11/)
 - 💬 Ask me about FPGAs, processor design, CNN inference
