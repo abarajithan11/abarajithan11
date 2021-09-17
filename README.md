@@ -1,25 +1,27 @@
 ### Hey 👋, I'm [Aba](https://www.linkedin.com/in/abarajithan11/)
 
-I'm an electronics graduate, currently working as a junior lecturer at [University of Moratuwa](https://uom.lk/), Sri Lanka and a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides research, I enjoy teaching, food and backpacking.
+I'm an electronics graduate, currently working as an RTL Design Engineer at [Lemurian Labs](https://www.lemurianlabs.com), consultant at [University of Moratuwa](https://uom.lk/), Sri Lanka and I'm a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides digital circuit design, I enjoy teaching, food and backpacking.
 
-**Personal facts:**
+**About Me:**
 
-- I recently conducted a free, open and independant hands-on webminar: __Digital Circuit Design, Simulation and Synthesis with SystemVerilog__. 
+- Last November, I conducted a free, open and independant hands-on webminar: __Digital Circuit Design, Simulation and Synthesis with SystemVerilog__. 
   - It was widely successful, over 170 attended from over 9 institutes in Sri Lanka, India and Sweden.
-  - [Zoom recording](http://dms.uom.lk/s/wdRSTcFoHXkSTy7) was downloaded over 782 times in two days
-  - Feedback about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm so happy about this 😄.
+  - [Zoom recording](http://dms.uom.lk/s/wdRSTcFoHXkSTy7) was downloaded over 1500 times.
+  - [Feedback](https://bit.ly/sv-feedback) about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm so happy about this 😄.
 - 🔭 I’m currently working on: 
-  - Implementing SKLT on a ZYNQ PSoC
+  - Kraken: a bufferless, efficient, multi-mode inference engine (VLSI)
   - Vision based traffic analytics startup
-  - Multi mode inference engine design (VLSI)
   - Accelerating modified YOLOv2 in Z7045, with 30 FPS (target) at 250 MHz
-- 🤔 I’m looking for help with ZYNQ progamming
+- 🤔 I’m looking for help with VLSI memory compilers
 - 📫 You can find me on: [Facebook](https://www.facebook.com/abarajithan11/)
 - 💬 Ask me about FPGAs, processor design, CNN inference
 - 😄 Pronouns: digital designer, backpacker, foodie...
 
 **Projects:**
 
+- Kraken: An optimized dataflow & accelerator for convolutions, fully-connected layers and matrix multiplications
+  - Research paper (ongoing) - private repo
+  - Python, C++, SystemVerilog, ZYNQ, Cadence Genus, ARM Artisan, LaTeX, Inkscape
 - Missing Semester
   - An initiative I have started at my department, to conduct hands-on webminars to familarize students with tools and languages.
   - Free and open to anyone willing to learn
@@ -32,14 +34,8 @@ I'm an electronics graduate, currently working as a junior lecturer at [Universi
   - Commercializing - private repo
   - Group work
   - Python, Tensorflow 2.x, AWS, Node.js
-- Optimized Multi Mode Inference Engine for CNNs and Fully Connected Networks 
-  - Research paper (ongoing) - private repo
-  - Python, C++, SystemVerilog, ZYNQ, Synopsys DesignCompiler
-- Signed Karhunen–Loève Transform on FPGA
-  - For image and video compression
-  - Research paper (ongoing) - private repo
-  - Python (Numpy stack), SystemVerilog, ZYNQ
 - [AbruTech Processor](https://aba-projects.blogspot.com/2018/01/2018-custom-processor-design-and.html)
+  - My first big project in digital design
   - A custom processor on FPGA with our own architecture, ISA, assembler and simulator
   - Algorithms implemented: Downsampling, Upsampling RGB images, applying filters, prime finding with eratosthenes sieve
 - Digital Graphic Equalizer
