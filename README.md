@@ -1,6 +1,6 @@
-### Hey 👋, I'm [Aba](https://www.linkedin.com/in/abarajithan11/)
+### Hey 👋, I'm [Aba](https://aba-blog.xyz/)
 
-I'm an electronics graduate, currently working as an RTL Design Engineer at [Lemurian Labs](https://www.lemurianlabs.com), consultant at [University of Moratuwa](https://uom.lk/), Sri Lanka and I'm a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides digital circuit design, I enjoy teaching, food and backpacking.
+I'm an electronics graduate, currently working as an RTL Design Engineer at [Lemurian Labs](https://www.lemurianlabs.com), consultant at [University of Moratuwa](https://uom.lk/), Sri Lanka and I'm a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides digital circuit design, I enjoy [teaching](https://aba-blog.xyz/tag/teaching/), [community work](https://aba-blog.xyz/tag/community/index.html) and [backpacking](https://aba-blog.xyz/tag/travels/index.html).
 
 **About Me:**
 
@@ -13,7 +13,7 @@ I'm an electronics graduate, currently working as an RTL Design Engineer at [Lem
   - Vision based traffic analytics startup
   - Accelerating modified YOLOv2 in Z7045, with 30 FPS (target) at 250 MHz
 - 🤔 I’m looking for help with VLSI memory compilers
-- 📫 You can find me on: [Facebook](https://www.facebook.com/abarajithan11/), [LinkedIn](https://www.linkedin.com/in/abarajithan11)
+- 📫 You can find me on: [My Blog](https://aba-blog.xyz/), [Facebook](https://www.facebook.com/abarajithan11/), [LinkedIn](https://www.linkedin.com/in/abarajithan11)
 - 💬 Ask me about FPGAs, processor design, CNN inference
 - 😄 Pronouns: digital designer, backpacker, foodie...
 
