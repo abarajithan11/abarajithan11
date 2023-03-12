@@ -1,27 +1,9 @@
 ### Hey 👋, I'm [Aba](https://aba-blog.xyz/)
 
-I'm an electronics graduate, currently working as an RTL Design Engineer at [Lemurian Labs](https://www.lemurianlabs.com), consultant at [University of Moratuwa](https://uom.lk/), Sri Lanka and I'm a former research intern at [CSIRO, Australia](https://www.csiro.au/). Besides digital circuit design, I enjoy [teaching](https://aba-blog.xyz/tag/teaching/), [community work](https://aba-blog.xyz/tag/community/index.html) and [backpacking](https://aba-blog.xyz/tag/travels/index.html).
-
-**About Me:**
-
-- Last November, I conducted a free, open and independant hands-on webminar: __Digital Circuit Design, Simulation and Synthesis with SystemVerilog__. 
-  - It was widely successful, over 170 attended from over 9 institutes in Sri Lanka, India and Sweden.
-  - [Zoom recording](http://dms.uom.lk/s/wdRSTcFoHXkSTy7) was downloaded over 1500 times.
-  - [Feedback](https://bit.ly/sv-feedback) about the [content, visuals](http://bit.ly/sv-slides) and teaching style was overwhelmingly positive. I'm so happy about this 😄.
-- 🔭 I’m currently working on: 
-  - Kraken: a bufferless, efficient, multi-mode inference engine (VLSI)
-  - Vision based traffic analytics startup
-  - Accelerating modified YOLOv2 in Z7045, with 30 FPS (target) at 250 MHz
-- 🤔 I’m looking for help with VLSI memory compilers
-- 📫 You can find me on: [My Blog](https://aba-blog.xyz/), [Facebook](https://www.facebook.com/abarajithan11/), [LinkedIn](https://www.linkedin.com/in/abarajithan11)
-- 💬 Ask me about FPGAs, processor design, CNN inference
-- 😄 Pronouns: digital designer, backpacker, foodie...
+I'm a PhD student at University of California, San Diego, with about 4 years of experience building ML accelerators. Besides digital circuit design, I enjoy [teaching](https://aba-blog.xyz/tag/teaching/), [community work](https://aba-blog.xyz/tag/community/index.html) and [backpacking](https://aba-blog.xyz/tag/travels/index.html).
 
 **Projects:**
 
-- Kraken: An optimized dataflow & accelerator for convolutions, fully-connected layers and matrix multiplications
-  - Research paper (ongoing) - private repo
-  - Python, C++, SystemVerilog, ZYNQ, Cadence Genus, ARM Artisan, LaTeX, Inkscape
 - Missing Semester
   - An initiative I have started at my department, to conduct hands-on webminars to familarize students with tools and languages.
   - Free and open to anyone willing to learn
