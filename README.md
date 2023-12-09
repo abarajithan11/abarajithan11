@@ -1,8 +1,8 @@
-### Hey 👋, I'm [Aba](https://aba-blog.xyz/)
+## Hey 👋, I'm [Aba](https://aba-blog.xyz/)
 
 I'm a PhD student at University of California, San Diego, with about 4 years of experience building ML accelerators. Besides digital circuit design, I enjoy [teaching](https://aba-blog.xyz/tag/teaching/), [community work](https://aba-blog.xyz/tag/community/index.html), and [backpacking](https://aba-blog.xyz/tag/travels/index.html).
 
-### DeepSoCFlow
+## DeepSoCFlow
 
 - An open workflow for hardware research in FPGA/ASIC implementation of DNNs
 - Developed software (python library) + hardware (SV modules, TCL flows) + firmware (C runtime)
@@ -19,7 +19,7 @@ I'm a PhD student at University of California, San Diego, with about 4 years of 
 - Firmware
   - [C firmware](https://github.com/abarajithan11/deepsocflow/tree/master/deepsocflow/c) to control the DMAs & accelerator to process any given DNN.
   
-### SystemVerilog Short Course
+## SystemVerilog Short Course
 
 - 64-hour hands-on short course, collaborating with Synopsys, teaching 271 participants from 13 countries
 - [Overwhelmingly positive feedback](https://github.com/skillsurf/systemverilog\#feedback-from-the-participants) from undergraduate & industry professionals
