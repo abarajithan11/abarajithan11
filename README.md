@@ -4,7 +4,7 @@ I'm a PhD student at University of California, San Diego, with about 4 years of 
 
 ## DeepSoCFlow
 
-- An open workflow for hardware research in FPGA/ASIC implementation of DNNs
+- [An open workflow](https://github.com/abarajithan11/deepsocflow) for hardware research in FPGA/ASIC implementation of DNNs
 - Developed software (python library) + hardware (SV modules, TCL flows) + firmware (C runtime)
 - Started as self-motivated passion project; being integrated with [HLS4ML library](https://github.com/fastmachinelearning/hls4ml)
 - Software:
