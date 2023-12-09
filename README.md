@@ -6,7 +6,7 @@ I'm a PhD student at University of California, San Diego, with about 4 years of 
 
 - An open workflow for hardware research in FPGA/ASIC implementation of DNNs
 - Developed software (python library) + hardware (SV modules, TCL flows) + firmware (C runtime)
-- Started as self-motivated passion project; being integrated with HLS4ML library
+- Started as self-motivated passion project; being integrated with [HLS4ML library](https://github.com/fastmachinelearning/hls4ml)
 - Software:
   - [Python front-end](https://github.com/abarajithan11/deepsocflow/tree/master/deepsocflow/py) to build & train models with Qkeras, run fixed point inference & generate SV, TCL, and C headers.
   - Made into pip package with Sphinx auto-documentation
