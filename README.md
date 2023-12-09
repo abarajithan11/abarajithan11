@@ -28,8 +28,9 @@ I'm a PhD student at University of California, San Diego, with about 4 years of 
   - Testing with [randomized transactional testbenches](https://github.com/SkillSurf/systemverilog/blob/master/tb/mvm_uart_system_tb.sv)
   - FPGA implementation & testing with Python
   - ASIC flow with Synopsys DesignCompiler & IC Compiler.
+
    
-**Other Projects & Initiatives**
+## Other Projects & Initiatives
 
 - Missing Semester:
   - An initiative I have started at my department, to conduct hands-on webminars to familarize students with tools and languages.
