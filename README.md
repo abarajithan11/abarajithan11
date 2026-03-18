@@ -1,6 +1,6 @@
-# Abarajithan G - [abapages.com](https://www.abapages.com)
+# Abarajithan G - [abapages.com](https://abapages.com)
 
-Check out my website for up-to-date info: [abapages.com](https://www.abapages.com)
+Check out my website for up-to-date info: [abapages.com](https://abapages.com)
 
 ## Tech Stack
 
