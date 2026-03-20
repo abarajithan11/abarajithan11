@@ -28,6 +28,6 @@ Check out my website for up-to-date info: [abapages.com](https://abapages.com)
 * **[AXI-Stream VIP](https://github.com/abarajithan11/axis_vip):**
   Reusable transaction-level AXI Stream Driver and Sink with parametrized, random stalls to stress-test the designs.
   
-* **[UVM in 580-lines](https://github.com/abarajithan11/axis_vip):**
+* **[UVM in 580-lines](https://github.com/abarajithan11/uvm_decrypter):**
   Simplest possible complete UVM testbench, built as a class project.
   
